@@ -8,3 +8,4 @@ Esto con el fin de ayudar a los empleados de la cafeteria a no olvidar los pedid
 <img width="914" height="454" alt="Historial de usuario - copia" src="https://github.com/user-attachments/assets/d7086888-83ce-486b-8969-463de59f436b" />
 
 
+![Untitled Diagram](https://github.com/user-attachments/assets/0be172ad-fe2e-4248-8a02-ad2ee7c0601b)
