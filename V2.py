@@ -1,5 +1,5 @@
-import tkinter as tk
-from tkinter import messagebox
+import tkinter as tk #libreria para crear interfaces gráficas de usuario
+from tkinter import messagebox #Es un módulo dentro de tkinter que sirve para mostrar ventanas emergentes
 
 """
 Esta aplicación utiliza Tkinter para crear una interfaz gráfica.
